@@ -1,0 +1,22 @@
+{
+  "name": "proba_zavrsnog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatijanaPincir/proba_zavrsnog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatijanaPincir/proba_zavrsnog/issues"
+  },
+  "homepage": "https://github.com/TatijanaPincir/proba_zavrsnog#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
